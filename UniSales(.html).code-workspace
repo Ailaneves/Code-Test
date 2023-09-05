@@ -1,0 +1,13 @@
+{
+	"folders": [ .img="Atendimento.jpg"
+	
+		{
+			"path": "../../../../Documents/GitHub/UniSales"
+		}
+	],
+	"settings": {},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": []
+	}
+}
